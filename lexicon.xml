@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lexicon
+  version="1.0"
+  xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+  alphabet="x-microsoft-sapi"
+  xml:lang="zh-CN"
+>
+  <!--AzureTTS 多音字字典，1234分别为平升转降，5为轻声 -->
+  <!--A-->
+  <!--B-->
+  <!--C-->
+  <lexeme>
+    <grapheme>二</grapheme>
+    <phoneme>er4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>重头</grapheme>
+    <phoneme>chong2 tou2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>重复</grapheme>
+    <phoneme>chong2 fu4</phoneme>
+  </lexeme>
+</lexicon>
